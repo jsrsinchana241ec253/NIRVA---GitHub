@@ -57,6 +57,8 @@ Evidence is added to this repo as each item is verified. Nothing is marked Verif
 
 If the target does not connect, see `docs/SWD_recovery.md`.
 
+## Video link : https://drive.google.com/drive/folders/1_lXvUChW2pcTBaWPdrS3A_UHqrYorxAb
+
 ## Honest limitations
 
 - Not calibrated for ppm; relative detection only.
