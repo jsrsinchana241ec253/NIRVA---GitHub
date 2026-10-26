@@ -1,0 +1,33 @@
+,,,,,,,,
+,,,,,,,,
+,No,Item,Qty,Unit ₹,Total ₹,Source,Local / imported,Lead time
+,1,STM32F103C8T6 (Blue Pill) Board,1,146,146,https://robocraze.com/products/stm32f103c8t6-arm-development-board?variant=40193159004313,Online — India,7-9 days 
+,2,MQ-7 CO Sensor,1,117,117,https://robocraze.com/products/mq-7-gas-sensor-module?variant=40193307836569,Online — India,7-9 days 
+,3,MQ-2 Gas Sensor Module,1,96,96,https://robocraze.com/products/mq-2-gas-sensor-module?variant=40192372441241,Online — India,7-9 days 
+,4,MQ-135 Gas Sensor Module ( Future ) ,1,107,107,https://robocraze.com/products/mq-135-gas-sensor-module?_pos=2&_sid=8f8fdf147&_ss=r,Online — India,7-9 days 
+,5,MAX30102 Sensor Breakout Module,1,155,155,https://robocraze.com/products/max30102-pulse-oximeter-heart-rate-sensor-module?variant=40600368611481,Online — India,7-9 days 
+,6,MAX30205 Sensor Breakout Module ( Future ) ,1,749,749,https://robu.in/product/max30205mta-human-body-temperature-sensoring-module/,Online — India,7-9 days 
+,7,AMS1117 3.3V Voltage Regulator,1,32,32,https://robu.in/product/ams1117-3-3v-power-supply-module/,Online — India,7-9 days 
+,8,DHT11 Humidity and Temperature Sensor Module,1,59,59,https://robocraze.com/products/dht11-humidity-temperature-sensor-module?variant=40192431685785,Online — India,7-9 days 
+,9,LM35 breakout module ,1,100,100,Local shop,Local,1 day
+,10,9V Battery,1,30,30,Local shop,Local,1 day
+,11,5V Voltage Regulator,1,10,10,Local shop,Local,1 day
+,12,Red LED,1,16,16,https://robu.in/product/everlight-5mm-red-dip-led/,Online — India,7-9 days 
+,13,Green LED,1,10,10,https://robu.in/product/10mm-dip-led-green-10-pcs/,Online — India,7-9 days 
+,14,Active Buzzer Module,2,27,54,https://robocraze.com/products/active-buzzer-module?variant=40192615448729,Online — India,7-9 days 
+,15,1N4007 Diode,1,10,10,https://robu.in/product/1n4007-1w-diode-pack-of-30/,Online — India,7-9 days 
+,16,BC547 NPN Transistor,1,10,10,https://robocraze.com/products/bc547-transistor-ic-pack-of-5?_pos=1&_psq=BC547&_psid=d21713c5d&_ss=e,Online — India,7-9 days 
+,17,150Ω Resistor,1,11.07,11.07,https://robu.in/product/mf25-150r-multicomp-pro-through-hole-resistor-150-ohm-mf25-series-250-mw/,Online — India,7-9 days 
+,18,330Ω Resistor,1,11.76,11.76,https://robu.in/product/330-ohm-1w-metal-film-resistor-pack-of-40/,Online — India,7-9 days 
+,19,20kΩ Resistor,1,11.76,11.76,https://robu.in/product/mf25-20k-multicomp-pro-through-hole-resistor-20-kohm/,Online — India,7-9 days 
+,20,10kΩ Resistor,2,5.39,10.78,https://robu.in/product/10k-ohm-0-5w-metal-film-resistor-pack-of-50/,Online — India,7-9 days 
+,21,1kΩ Resistor,2,5.25,10.5,https://robu.in/product/1k-ohm-1w-metal-film-resistor-pack-of-40/,Online — India,7-9 days 
+,22,100nF Ceramic Capacitor,1,10,10,https://robu.in/product/100nf-50v-disc-capacitor/,Online — India,7-9 days 
+,23,10µF Electrolytic Capacitor,1,11.43,11.43,https://robu.in/product/10uf-63v-electrolytic-capacitor-pack-of-10/,Online — India,7-9 days 
+,24,100µF Electrolytic Capacitor,1,15.24,15.24,https://robu.in/product/100uf-25v-electrolytic-capacitor-pack-of-10/,Online — India,7-9 days 
+,25,220µF Electrolytic Capacitor,1,12,12,https://robu.in/product/220-uf-50v-through-hole-electrolytic-capacitor-pack-of-10/,Online — India,7-9 days 
+,26,Breadboard,3,70,210,https://robocraze.com/products/breadboard?variant=40192370901145,Online — India,7-9 days 
+,27,"Jumper Wires (M-M, M-F, F-F)",1 set,123,123,https://robocraze.com/products/jumper-wire-set-m2m-m2f-f2f-40-pcs-each?variant=40192573636761,Online — India,7-9 days 
+,28,Slide switch,1,15,15,Local Shop,Local ,1 day
+,28,ST-Link V2 Programmer,1,250,250,Local shop,Local,1 day
+,,GRAND TOTAL,,,2403.54,,,
