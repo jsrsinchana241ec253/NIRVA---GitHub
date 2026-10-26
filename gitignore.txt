@@ -1,5 +1,0 @@
-   **/Debug/
-   **/Release/
-   *-backups/
-   fp-info-cache
-   *.kicad_prl
